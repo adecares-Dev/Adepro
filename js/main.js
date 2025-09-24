@@ -47,3 +47,4 @@ function showTestimonial() {
 
 setInterval(showTestimonial, 4000); // every 4s
 
+
